@@ -1,4 +1,5 @@
 
+<img src ="R.jpg" height="300" width="1600" alt="coding mode">
 
 <h1 align="center">Hi 👋, I'm Priya Kushawaha</h1>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
