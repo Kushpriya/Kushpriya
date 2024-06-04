@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushpriya&label=Profile%20views&color=0e75b6&style=flat" alt="kushpriya" /> </p>
-<p align="left"> <a href="https://twitter.com/kush_priya07" target="blank"><img src="https://img.shields.io/twitter/follow/kush_priya07?logo=twitter&style=for-the-badge" alt="kush_priya07" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/kush_priya07" target="blank"><img src="https://img.shields.io/twitter/follow/kush_priya07?logo=twitter&style=for-the-badge" alt="kush_priya07" /></a> </p> -->
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **priyakushawaha73@gmail.com**
 
