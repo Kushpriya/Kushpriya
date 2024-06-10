@@ -10,13 +10,13 @@
 
 - 📫 How to reach me **priyakushawaha73@gmail.com**
 
-<!--<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kush_priya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kush_priya07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priya-singh-97207b24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-singh-97207b24a" height="30" width="40" /></a>
 <a href="https://fb.com/singhpriya03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="singhpriya03" height="30" width="40" /></a>
 <a href="https://instagram.com/p.r.i.y.a__07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.r.i.y.a__07" height="30" width="40" /></a>
-</p> --->
+</p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
