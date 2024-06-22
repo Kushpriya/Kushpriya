@@ -5,7 +5,7 @@
  
  <!-- Banner Image -->
 <!--<img src="https://raw.githubusercontent.com/brunobritodev/awesome-github-stats/master/docs/banner.png" alt="kushpriya" />-->
-<h1 >Hi 👋, I'm Priya Kushawaha</h1>
+<h1 align="center" >Hi 👋, I'm Priya Kushawaha</h1>
 
 <!-- Profile Views -->
 <p align="left">
