@@ -5,7 +5,7 @@
  
  <!-- Banner Image -->
 <!--<img src="https://raw.githubusercontent.com/brunobritodev/awesome-github-stats/master/docs/banner.png" alt="kushpriya" />-->
-<h1 align="center">Hi 👋, I'm Priya Kushawaha</h1>
+<h1 >Hi 👋, I'm Priya Kushawaha</h1>
 
 <!-- Profile Views -->
 <p align="left">
@@ -37,6 +37,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.r.i.y.a__07" height="30" width="40" />
   </a>
 </p>
+
+<hr>
 
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
@@ -87,9 +89,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
+<hr>
+
 
 <!-- GitHub Stats -->
-<h3 align="center">GitHub Stats:  <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="30" width="30" /></h3>
+<h3 align="center">GitHub Stats: <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="30" width="30" /></h3>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushpriya&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=79fe96" alt="kushpriya" />
 </p>
