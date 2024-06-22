@@ -19,9 +19,9 @@
 - 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me: **priyakushawaha73@gmail.com**
-<br>
+
 <!-- Connect with Me -->
-<h2 align="center">🌐Connect with me:</h2>
+<h1 align="center">🌐Connect with me:</h1>
 <p align="center">
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/priyakushawaha73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/priyakushawaha73" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/kush_priya07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kush_priya07/" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 </p><br>
 
 <!-- Languages and Tools -->
-<h2 align="center">💻 My Tech Stack:</h2>
+<h1 align="center">💻 My Tech Stack:</h1>
 <p align="center">
    <img class="badge" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
    <img class="badge" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -51,15 +51,15 @@
    <img class="badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
    <img class="badge" src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
    <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" width="80" height="20" >
-</p> <br>
+</p>
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats:</h2>
+<h1 align="center">📊 GitHub Stats:</h1>
  <p align="center" margin="50px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushpriya&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/><br>
     <img src="https://github-readme-stats.vercel.app/api?username=kushpriya&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushpriya&theme=nightowl&hide_border=false" alt="GitHub Streak" />
- </p><br>
+ </p>
 
 <!--
 ## 🏆 GitHub Trophies
@@ -68,10 +68,3 @@
 <p align="center">
  <img src="https://github-contributor-stats.vercel.app/api?username=kushpriya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </p>
-
-
-
-
-
-
-
