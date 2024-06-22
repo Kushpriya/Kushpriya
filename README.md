@@ -1,8 +1,8 @@
 <!--<img src="https://raw.githubusercontent.com/brunobritodev/awesome-github-stats/master/docs/banner.png" alt="kushpriya" /> </p> --->
 <h1 align="center">Hi 👋, I'm Priya Kushawaha</h1>
-<p align="Middle"> <a href="https://github.com/Kushpriya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kushpriya" alt="Kushpriya" /></a> </p>
+<!-- <p align="Middle"> <a href="https://github.com/Kushpriya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kushpriya" alt="Kushpriya" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
-
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushpriya&label=Profile%20views&color=0e75b6&style=flat" alt="kushpriya" /> </p>
 <!-- <p align="left"> <a href="https://twitter.com/kush_priya07" target="blank"><img src="https://img.shields.io/twitter/follow/kush_priya07?logo=twitter&style=for-the-badge" alt="kush_priya07" /></a> </p> -->
 
@@ -10,8 +10,8 @@
 
 - 📫 How to reach me **priyakushawaha73@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/kush_priya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kush_priya07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kushpriya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-singh-97207b24a" height="30" width="40" /></a>
 <a href="https://fb.com/singhpriya03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="singhpriya03" height="30" width="40" /></a>
