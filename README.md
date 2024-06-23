@@ -6,7 +6,7 @@
  <!-- Banner Image -->
 <!--<img src="https://raw.githubusercontent.com/brunobritodev/awesome-github-stats/master/docs/banner.png" alt="kushpriya" />-->
 <h1 align="center" >Hi 👋, I'm Priya Kushawaha</h1>
-
+<h3 align="center">Web Developer</h3>
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kushpriya&label=Profile%20views&color=0e75b6&style=flat" alt="kushpriya" />
@@ -23,13 +23,13 @@
 <!-- Connect with Me -->
 <h1 align="center">🌐Connect with me:</h1>
 <p align="center">
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/priyakushawaha73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/priyakushawaha73" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kush_priya07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kush_priya07/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/priyakushawaha73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priyakushawaha73" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kush_priya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kush_priya07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kushpriya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-singh-97207b24a" height="30" width="40" /></a>
 <a href="https://fb.com/singhpriya03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="singhpriya03" height="30" width="40" /></a>
 <a href="https://instagram.com/p.r.i.y.a__07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.r.i.y.a__07" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/kush_priya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kush_priya07" height="30" width="40"/></a> -->
-<a href="https://kaggle.com/https://www.kaggle.com/priyakushawaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/priyakushawaha" height="30" width="40" /></a>
+<a href="https://kaggle.com/priyakushawaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyakushawaha" height="30" width="40" /></a>
 </p><br>
 
 <!-- Languages and Tools -->
@@ -39,7 +39,7 @@
    <img class="badge" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
    <img class="badge" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#" />
    <img class="badge" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-   <img class="badge" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+   <img class="badge" src="https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
    <img class="badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
    <img class="badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
    <img class="badge" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" />
