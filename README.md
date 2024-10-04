@@ -11,7 +11,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kushpriya&label=Profile%20views&color=0e75b6&style=flat" alt="kushpriya" />
 </p>
-<!-- About Me -->
 <!--<p align="center">
   <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 </p>-->
