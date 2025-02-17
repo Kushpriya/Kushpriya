@@ -6,7 +6,7 @@
  <!-- Banner Image -->
 <!--<img src="https://raw.githubusercontent.com/brunobritodev/awesome-github-stats/master/docs/banner.png" alt="kushpriya" />-->
 <h1 align="center" >Hi 👋, I'm Priya Kushawaha</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kushpriya&label=Profile%20views&color=0e75b6&style=flat" alt="kushpriya" />
