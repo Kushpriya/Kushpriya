@@ -27,7 +27,7 @@
 <a href="https://fb.com/singhpriya03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="singhpriya03" height="30" width="40" /></a>
 <a href="https://instagram.com/p.r.i.y.a__07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.r.i.y.a__07" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/kush_priya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kush_priya07" height="30" width="40"/></a> -->
-<a href="https://kaggle.com/priyakushawaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyakushawaha" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/priyakushawaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyakushawaha" height="30" width="40" /></a> -->
 </p>
 
 <!-- Languages and Tools -->
