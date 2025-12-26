@@ -31,7 +31,7 @@
 </p>
 
 <!-- Languages and Tools -->
-<h1 align="center">💻 My Tech Stack:</h1>
+<h1 align="center">💻 Languages and Tools:</h1>
 <p align="center">
    <img class="badge" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
    <img class="badge" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
